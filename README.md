@@ -8,12 +8,7 @@
 
 ==========================================================
 
-AQ.Ab8RN6LHJAVqqLVixRw6OaVQo_no6wBfeJgVWgg--862fptGlA
-
-
-AQ.Ab8RN6LHJAVqqLVixRw6OaVQo_no6wBfeJgVWgg--862fptGlA
-
-
+No Need the Publish the API Key
 
 Name : SpringBoot-API-Gemini
 
